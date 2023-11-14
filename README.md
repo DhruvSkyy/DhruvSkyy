@@ -2,7 +2,7 @@
 
 UCL BSc Chemistry with Mathematics Student and Open-Source Software Engineer.
 
-- 🔭 I’m currently working on [movement](https://github.com/neuroinformatics-unit/movement)
+- 🔭 I’m currently working on [movement](https://github.com/neuroinformatics-unit/movement) with the [Neuroinformatics Unit](https://neuroinformatics.dev/), based within the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit).
 
 - 🌱 I’m currently learning [Algorithms, Data Structures](https://cses.fi/book/book.pdf) and [C++](https://www.learncpp.com/)
 
