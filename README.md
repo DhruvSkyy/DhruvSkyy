@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Dhruv
 
-UCL BSc Chemistry with Mathematics Student and Open-Source Software Engineer.
+UCL BSc Chemistry with Mathematics Student and Software Engineer.
 
 - 🔭 I’m currently working on [movement](https://github.com/neuroinformatics-unit/movement) with the [Neuroinformatics Unit](https://neuroinformatics.dev/), based within the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit).
 
