@@ -1,9 +1,7 @@
 ## Hi 👋, I'm Dhruv
 
-Interested in Computational Chemistry and Software Engineering
-Ex-SWE Intern @Microsoft
+SWE Intern @Microsoft (2024)
 
-University of Cambridge MPhil Scientific Computing (2026)
 UCL BSc Chemistry with Mathematics Student (2025)
 
 - 🔭 I’m currently working on [movement](https://github.com/neuroinformatics-unit/movement) with the [Neuroinformatics Unit](https://neuroinformatics.dev/), based within the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit).
