@@ -1,8 +1,12 @@
 ## Hi 👋, I'm Dhruv
 
-SWE Intern @Microsoft (2024)
+SWE Intern Cisco ThousandEyes (2025)  
 
-UCL BSc Chemistry with Mathematics Student (2025)
+SWE Intern Microsoft (2024)  
+
+MPhil Scientific Computing University of Cambridge (2025–26)  
+
+BSc Chemistry with Mathematics UCL (2025)
 
 - 🔭 I’m currently working on [movement](https://github.com/neuroinformatics-unit/movement) with the [Neuroinformatics Unit](https://neuroinformatics.dev/), based within the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit).
 
